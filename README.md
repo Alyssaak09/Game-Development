@@ -1,8 +1,8 @@
-# 🧠 Memory Card Game
+# Memory Card Game
 
 A simple memory matching game built with HTML, CSS, and JavaScript.
 
-## 🚀 Features
+## Features
 
 - Flip cards to find matching pairs
 - Move counter and timer
@@ -10,20 +10,20 @@ A simple memory matching game built with HTML, CSS, and JavaScript.
 - Restart button to play again
 - Responsive layout with images instead of emojis
 
-## 💻 How to Play
+## How to Play
 
 1. Open `index.html` in your browser.
 2. Choose a difficulty level.
 3. Click cards to flip them.
 4. Match all pairs to win!
 
-## 🛠 Tech Used
+## Tech Used
 
 - HTML5
 - CSS3 (Grid & Flexbox)
 - Vanilla JavaScript
 
-## 📦 Setup
+## Setup
 
 No installation needed. Just open the project in your browser:
 
